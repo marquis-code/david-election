@@ -1,6 +1,7 @@
 import { defineNuxtConfig } from "nuxt/config";
 
 export default defineNuxtConfig({
+  ssr: false, 
   postcss: {
     plugins: {
       "postcss-import": {},
@@ -16,7 +17,7 @@ export default defineNuxtConfig({
       enabled: true
     },
     meta: {
-      title: "Buildr",
+      title: "Safemom",
       author: "Marquis",
       mobileAppIOS: false,
       mobileApp: true,
