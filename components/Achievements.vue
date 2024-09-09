@@ -289,6 +289,7 @@ image: 'camp.jpeg'
 </template>
 
 <script setup lang="ts">
+import { dynamicImage } from '@/utils/assets'
 const itemsPerPage = 3;
 const currentGroup = ref(0);
 const autoSlideInterval = ref(null); // to hold the interval reference
@@ -452,16 +453,16 @@ const stopCarousel = () => {
   console.log('Carousel movement stopped.');
 };
 
-// Function to handle dynamic image fetching
-const dynamicImage = (image) => {
-  return image; // Modify this to handle dynamic images if needed
-};
+// // Function to handle dynamic image fetching
+// const dynamicImage = (image) => {
+//   return image; // Modify this to handle dynamic images if needed
+// };
 
 // Auto-slide function
 const autoSlide = () => {
   autoSlideInterval.value = setInterval(() => {
     next();
-  }, 3000); // Auto-slide every 3 seconds
+  }, 10000); // Auto-slide every 3 seconds
 };
 
 // Reset auto-slide interval after user interaction
