@@ -17,12 +17,12 @@ export default defineNuxtConfig({
       enabled: true
     },
     meta: {
-      title: "Safemom",
+      title: "#David4VP",
       author: "Marquis",
       mobileAppIOS: false,
       mobileApp: true,
       description:
-        "Healthy Moms, Happy Beginnings.",
+        "Leading With Compassion, Building with purpose.",
       theme_color: "#27396B",
       background_color: "#27396B",
       display: "standalone",
