@@ -103,7 +103,7 @@ Adejayi Blessing (COMPSSA'S Minister of Power and my personal mentor) and Akinsa
     },
     {
       desc: `Some of the members of HealthBetter.ng at a meeting.`,
-       image: 'campaign9.jpeg'
+       image: 'campaign20.jpeg'
     },
     {
       desc: `The team of Erranders.ng after the NIMELSSA Skill up workshop where we pitched our Startup company to them`,
@@ -112,7 +112,7 @@ Adejayi Blessing (COMPSSA'S Minister of Power and my personal mentor) and Akinsa
     {
         desc: `Me and my welfare team at the children's care centre Idi Araba for the COMPSSA Charity Drive 1.0
 We had packed drugs, foodstuff and so many provision and yet they were all smiles. These beautiful people made leadership so easy`,
-        image: 'campaign10.jpeg'
+        image: 'welfare-2.jpeg'
     },
     {
         desc: 'The beautiful Abigail Moejoh was probably very confused as to what I was saying but she held herself well. I remember how eloquently and effortlessly she spoke to the children at the hospice. I was highly impressed.',
@@ -163,11 +163,11 @@ image: 'camp.jpeg'
         desc: `This was the COMPSSA president's Interview with Owolabi Rhoda. I saw this and I was so happy because I received the commendation that I deserved and never got.`
     },
     {
-        image: 'campaign12.jpeg',
+        image: 'campaign11.jpeg',
         desc: `My second year hosting the ULAPS Symposium with the beautiful Temitope Alugo.`
     },
     {
-        image: 'campaign11.jpeg',
+        image: 'campaign12.jpeg',
         desc: `This picture shows the me together with the ULAPS EDITOR IN-CHIEF Tolulope Kalejaiye of the ULAPS Editorial Board at the official Magazine Launch. I was so proud because I had published an article in this magazine as a member of the Editorial Board.`
     },
     {
@@ -185,6 +185,10 @@ image: 'camp.jpeg'
     {
          image: 'campaign27.jpeg',
         desc: 'I was privileged to speak to the Students of Ogunlade schools on "Physiotherapy as a Career path" at the ULAPS Health Week Outreach.'
+    },
+    {
+         image: 'welfare.jpeg',
+        desc: 'Me and my Protocol Team at the COMPSSA Musical Concert. Another set of people that make leadership very easy. Special shouout to Fehintola Durotinu, she\'s a very hardworking and dedicated COMPSSAite.'
     }
   ])
 
