@@ -194,7 +194,7 @@
         <!-- <p class="mt-6 text-base leading-7 text-gray-600">University of Lagos Association of Physiotherapy Students (ULAPS)</p> -->
       </div>
       <dl class="col-span-2 grid grid-cols-1 gap-x-3 gap-y-6 text-base leading-7 text-gray-600 sm:grid-cols-2 lg:gap-y-5">
-        <div v-for="(item, idx) in ['Member, COMPSSA social committee', 'Member, COMPSSA welfare Committee', 'Welfare head, compssa charity drive 2.0', 'Head of Awareness day, COMPSSA Synergy week', 'Convener of the new COMPSSA Dance Commune (CDC)', 'Convener, COMPSSA Cheerleading squad(CCS)', 'Member, Mr and Miss Medilag Planning committee', 'Head of Protocol, Mr and Miss Medilag Planning Committee.', 'Head of brand Protocol, COMPSSA Electrofest']" :key="idx"  class="relative pl-9">
+        <div v-for="(item, idx) in jobs" :key="idx"  class="relative pl-9">
           <dt class="font-semibold text-gray-900">
             <svg class="absolute left-0 top-1 h-5 w-5 text-indigo-500" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
               <path fill-rule="evenodd" d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z" clip-rule="evenodd" />
@@ -331,8 +331,7 @@
           <h2 class="text-3xl font-bold tracking-tight text-white sm:text-xl">People's Experiences of Me</h2>
           <p class="mt-6 text-lg leading-8 text-gray-300">Writing this section was both exciting and a little nerve-wracking! My team insisted I include testimonials from people who know me well and interact with me regularly. I wasn’t given much of a choice, so here we are.
           </p>
-          <p class="mt-6 text-lg leading-8 text-gray-300">As we go through this together, I’m as eager (and maybe a little nervous) as you are to see what people have to say. Hopefully, these experiences will give you a glimpse into who I am through the eyes of others, beyond the titles and responsibilities.
-            I(nserts videos of compssaites)</p>
+          <p class="mt-6 text-lg leading-8 text-gray-300">As we go through this together, I’m as eager (and maybe a little nervous) as you are to see what people have to say. Hopefully, these experiences will give you a glimpse into who I am through the eyes of others, beyond the titles and responsibilities.</p>
             <!-- <iframe src="@/assets/img/election-videos.mp4" /> -->
             <VideoPlayer />
         </div>
@@ -414,8 +413,12 @@
   
           <ul class="mt-8 space-y-1 text-sm text-gray-700 flex items-center gap-x-3">
             <p>Follow me on:</p>
-            <li> <img src="@/assets/icons/twitter.svg" class="h-7 w-7" /></li>
-            <li> <img src="@/assets/icons/insta.svg" class="h-7 w-7" /></li>
+            <a target="_blank" href="https://www.instagram.com/j_da_vid?igsh=NTc4MTIwNjQ2YQ==">
+              <img src="@/assets/icons/insta.svg" class="h-7 w-7" /> 
+            </a>
+            <li>
+              <img src="@/assets/icons/twitter.svg" class="h-7 w-7" />
+            </li>
           </ul>
   
           <!-- <ul class="mt-8 flex gap-6">
@@ -588,3 +591,7 @@
   
   
 </template>
+
+<script setup lang="ts">
+const jobs = ref(['Member, COMPSSA social committee', 'Member, COMPSSA welfare Committee', 'Welfare head, compssa charity drive 1.0', 'Head of Awareness day, COMPSSA Synergy week', 'Convener of the new COMPSSA Dance Commune (CDC)', 'Convener, COMPSSA Cheerleading squad(CCS)', 'Member, Mr and Miss Medilag Planning committee', 'Head of Protocol, Mr and Miss Medilag Planning Committee.', 'Head of brand Protocol, COMPSSA Electrofest', 'Head of Protocol, COMPSSA musical concert'])
+</script>
