@@ -90,7 +90,7 @@ onBeforeUnmount(() => {
   
   // Refs
   const videoElement = ref<HTMLVideoElement | null>(null);
-  const videoSrc = ref<string>('/election-videos.mp4');  // Change to public folder path
+  const videoSrc = ref<string>('/election.mp4');  // Change to public folder path
   
   // Methods
   const onPlay = () => {

@@ -234,9 +234,16 @@
           <!-- <h2 class="text-base font-semibold leading-7 text-indigo-600">Deploy faster</h2> -->
           <p class="mt-2 text-xl font-bold tracking-tight text-gray-900 sm:text-xl pt-10 lg:pt-0">My plans for Compssa</p>
           <p class="mt-6 text-lg leading-8 text-gray-600">I want to briefly share my vision for COMPSSA without giving too much away. My goal is simple: to create a COMPSSA where every student feels valued, supported, and empowered.</p>
-          <p  class="mt-6 text-lg leading-8 text-gray-600">I have developed a strategic plan focused on improving student wellbeing, fostering interdepartmental collaboration, and enhancing academic and professional growth. These ideas are tailored to meet the specific needs of our student community and are rooted in my experiences serving you over the past few years.</p>
-          <p class="mt-6 text-lg leading-8 text-gray-600">I’ll be unveiling the full details of these plans during the manifesto, but for now, I want you to know that everything I propose will be geared towards making COMPSSA more inclusive, more dynamic, and better prepared for the future.</p>
-          <p class="mt-6 text-lg leading-8 text-gray-600">Rest assured, I’m committed to delivering real results, and I look forward to sharing more of my vision with you as we move forward. Stay tuned!</p>
+          <p  class="mt-6 text-lg leading-8 text-gray-600">I have developed a strategic plan focused on improving student wellbeing, fostering interdepartmental collaboration, and enhancing academic and professional growth. These ideas are tailored to meet the specific needs of our student community and are rooted in my experiences serving you over the past few years. They are arranged into My 5 point Agenda;</p>
+          <ul class="list-disc space-y-5">
+            <li class="leading-8 text-gray-600">Interdepartmental collaboration </li>
+            <li class="leading-8 text-gray-600">Improve Student Engagement</li> 
+            <li class="leading-8 text-gray-600">Ensure Wholesome student wellbeing</li> 
+            <li class="leading-8 text-gray-600">Ensure Seamless college transition</li> 
+            <li class="leading-8 text-gray-600">Improve Practical and Professional skills</li>
+          </ul>
+          <p class="mt-6 text-lg leading-8 text-gray-600">I’ll be unveiling the full details of these plans during the manifesto, but for now, I want you to know that everything I propose will be geared towards making COMPSSA more inclusive, more dynamic, and better prepared for the future.
+            Rest assured, I’m committed to delivering real results, and I look forward to sharing more of my vision with you as we move forward. Stay tuned!</p>
           <!-- <dl class="mt-10 max-w-xl space-y-8 text-base leading-7 text-gray-600 lg:max-w-none">
             <div class="relative pl-9">
               <dt class="inline font-semibold text-gray-900">
@@ -331,9 +338,10 @@
           <h2 class="text-3xl font-bold tracking-tight text-white sm:text-xl">People's Experiences of Me</h2>
           <p class="mt-6 text-lg leading-8 text-gray-300">Writing this section was both exciting and a little nerve-wracking! My team insisted I include testimonials from people who know me well and interact with me regularly. I wasn’t given much of a choice, so here we are.
           </p>
-          <p class="mt-6 text-lg leading-8 text-gray-300">As we go through this together, I’m as eager (and maybe a little nervous) as you are to see what people have to say. Hopefully, these experiences will give you a glimpse into who I am through the eyes of others, beyond the titles and responsibilities.</p>
+          <p class="mt-6 text-lg leading-8 text-gray-300 mb-10">As we go through this together, I’m as eager (and maybe a little nervous) as you are to see what people have to say. Hopefully, these experiences will give you a glimpse into who I am through the eyes of others, beyond the titles and responsibilities.</p>
             <!-- <iframe src="@/assets/img/election-videos.mp4" /> -->
             <VideoPlayer />
+            <VideoPlayer2 class="mt-10" />
         </div>
         <img src="@/assets/img/profile7.jpg" alt="Product screenshot" class="relative -z-20 min-w-full max-w-xl rounded-xl shadow-xl ring-1 ring-white/10 lg:row-span-4 lg:w-[64rem] lg:max-w-none" width="2432" height="144">
         <!-- <div class="max-w-xl lg:row-start-3 lg:mt-10 lg:max-w-md lg:border-t lg:border-white/10 lg:pt-10">
@@ -406,22 +414,22 @@
       </div>
       <div class="mt-8 lg:mt-0">
         <div class="mx-auto max-w-prose text-base lg:max-w-none space-y-3">
-          <p class="leading-relaxed text-sm">When I first dreamed of running for Vice President of COMPSSA, one of the key reasons was my desire to foster a unity that I felt was lacking — a unity that I carried deeply in my heart. I wanted to bridge the gaps between departments and bring us closer together, not just as students but as a community.</p>
-          <p class="leading-relaxed text-sm">To truly understand and connect with everyone, I made it a point to attend as many departmental events as I could — not just for the sake of attendance, but because I genuinely wanted to experience and engage with each department’s unique culture. These experiences allowed me to witness both the strengths and struggles of different departments, and that insight is something I believe every COMPSSA leader should have.</p>
+          <p class="leadingloosedd text">When I first dreamed of running for Vice President of COMPSSA, one of the key reasons was my desire to foster a unity that I felt was lacking — a unity that I carried deeply in my heart. I wanted to bridge the gaps between departments and bring us closer together, not just as students but as a community.</p>
+          <p class="leading-loosed text">To truly understand and connect with everyone, I made it a point to attend as many departmental events as I could — not just for the sake of attendance, but because I genuinely wanted to experience and engage with each department’s unique culture. These experiences allowed me to witness both the strengths and struggles of different departments, and that insight is something I believe every COMPSSA leader should have.</p>
           <div class="space-y-3">
-           <p class="leading-relaxed text-sm"> Here are just a few of the events I attended:</p>
+           <p class="leading-loosed text"> Here are just a few of the events I attended:</p>
 
-            <ul class="space-y-3 text-sm">
-              <li>•	I attended all my departmental events, from health week to fashion week and sports week.</li>
-              <li> •	I was at APSUL’s (Pharmacology) Owambe party, trade fair, and some of their sports events.</li>
-              <li>•	I joined NARS (Radiography) for their Battle of Knives, their sports week opening, and their departmental election manifesto.</li>
-              <li>•	I was present for PANS’s (Pharmacy) sports week opening and the Face of Pharmacy Competition.</li>
-              <li>•	I attended AMSUL’s (MBBS) International Women’s Day conference, the Face of AMSUL Competition, and the YBC class unveiling event.</li>
-              <li>•	I was there for SPAN’s (Physiology) sports week opening, their YBC Symposium, and their departmental manifesto.</li>
-              <li>•	I participated in NIMELSSA’s (MLS) Skill-Up workshop, their Owambe party, their YBC Symposium, and their departmental dinner.</li>
-              <li>•	I joined NUNSA for their color-themed games night, departmental manifesto, and YBC Symposium.</li>
+            <ul class="space-y-4 text- list-disc">
+              <li>	I attended all my departmental events, from health week to fashion week and sports week.</li>
+              <li> 	I was at APSUL’s (Pharmacology) Owambe party, trade fair, and some of their sports events.</li>
+              <li>	I joined NARS (Radiography) for their Battle of Knives, their sports week opening, and their departmental election manifesto.</li>
+              <li>	I was present for PANS’s (Pharmacy) sports week opening and the Face of Pharmacy Competition.</li>
+              <li>	I attended AMSUL’s (MBBS) International Women’s Day conference, the Face of AMSUL Competition, and the YBC class unveiling event.</li>
+              <li>	I was there for SPAN’s (Physiology) sports week opening, their YBC Symposium, and their departmental manifesto.</li>
+              <li>	I participated in NIMELSSA’s (MLS) Skill-Up workshop, their Owambe party, their YBC Symposium, and their departmental dinner.</li>
+              <li>	I joined NUNSA for their color-themed games night, departmental manifesto, and YBC Symposium.</li>
             </ul>
-            <p class="leading-relaxed text-sm">“What’s the point?” you might ask. The point is this: I’ve been with these people. I’ve seen their individual strengths, their challenges, and their potential. This is the insight I carry with me — and I believe it’s crucial for anyone vying for a position in COMPSSA to understand the diverse experiences of its members.</p>
+            <p class="leading-relaxed">“What’s the point?” you might ask. The point is this: I’ve been with these people. I’ve seen their individual strengths, their challenges, and their potential. This is the insight I carry with me — and I believe it’s crucial for anyone vying for a position in COMPSSA to understand the diverse experiences of its members.</p>
           </div>
         </div>
       </div>
