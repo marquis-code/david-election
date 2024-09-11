@@ -92,7 +92,7 @@
         <div class="relative mx-auto max-w-prose text-base lg:max-w-none">
           <figure>
             <div class="aspect-h-7 aspect-w-12 lg:aspect-none">
-              <img class="rounded-lg object-cover object-center shadow-lg" src="@/assets/img/profile2.jpg" alt="Whitney leaning against a railing on a downtown street" width="1184" height="1376">
+              <img class="rounded-lg object-cover object-center shadow-lg" src="@/assets/img/profile3.jpg" alt="Whitney leaning against a railing on a downtown street" width="1184" height="1376">
             </div>
             <!-- <figcaption class="mt-3 flex text-sm text-gray-500">
               <svg class="h-5 w-5 flex-none text-gray-400" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
@@ -377,6 +377,57 @@
 </div>
 
 
+<div class="overflow-hidden bg-white mb-20">
+  <div class="relative mx-auto max-w-7xl px-6  lg:px-8">
+    <div class="absolute bottom-0 left-3/4 top-0 hidden w-screen bg-gray-50 lg:block"></div>
+    <div class="mx-auto max-w-prose text-base lg:grid lg:max-w-none lg:grid-cols-2 lg:gap-8">
+      <div>
+   
+        <h3 class="mt-2 text-2xl font-bold leading-8 tracking-tight text-gray-900 sm:text-xl">My Relationship with the Departments </h3>
+      </div>
+    </div>
+    <div class="mt-8 lg:grid lg:grid-cols-2 lg:gap-8">
+      <div class="relative lg:col-start-2 lg:row-start-1">
+        <svg class="absolute right-0 top-0 -mr-20 -mt-20 hidden lg:block" width="404" height="384" fill="none" viewBox="0 0 404 384" aria-hidden="true">
+          <defs>
+            <pattern id="de316486-4a29-4312-bdfc-fbce2132a2c1" x="0" y="0" width="20" height="20" patternUnits="userSpaceOnUse">
+              <rect x="0" y="0" width="4" height="4" class="text-gray-200" fill="currentColor" />
+            </pattern>
+          </defs>
+          <rect width="404" height="384" fill="url(#de316486-4a29-4312-bdfc-fbce2132a2c1)" />
+        </svg>
+        <div class="relative mx-auto max-w-prose text-base lg:max-w-none">
+          <figure>
+            <div class="aspect-h-7 aspect-w-12 lg:aspect-none">
+              <img class="rounded-lg object-cover object-center shadow-lg" src="@/assets/img/logos.jpeg" alt="Whitney leaning against a railing on a downtown street" width="1184" height="1376">
+            </div>
+          </figure>
+        </div>
+      </div>
+      <div class="mt-8 lg:mt-0">
+        <div class="mx-auto max-w-prose text-base lg:max-w-none space-y-3">
+          <p class="leading-relaxed text-sm">When I first dreamed of running for Vice President of COMPSSA, one of the key reasons was my desire to foster a unity that I felt was lacking — a unity that I carried deeply in my heart. I wanted to bridge the gaps between departments and bring us closer together, not just as students but as a community.</p>
+          <p class="leading-relaxed text-sm">To truly understand and connect with everyone, I made it a point to attend as many departmental events as I could — not just for the sake of attendance, but because I genuinely wanted to experience and engage with each department’s unique culture. These experiences allowed me to witness both the strengths and struggles of different departments, and that insight is something I believe every COMPSSA leader should have.</p>
+          <div class="space-y-3">
+           <p class="leading-relaxed text-sm"> Here are just a few of the events I attended:</p>
+
+            <ul class="space-y-3 text-sm">
+              <li>•	I attended all my departmental events, from health week to fashion week and sports week.</li>
+              <li> •	I was at APSUL’s (Pharmacology) Owambe party, trade fair, and some of their sports events.</li>
+              <li>•	I joined NARS (Radiography) for their Battle of Knives, their sports week opening, and their departmental election manifesto.</li>
+              <li>•	I was present for PANS’s (Pharmacy) sports week opening and the Face of Pharmacy Competition.</li>
+              <li>•	I attended AMSUL’s (MBBS) International Women’s Day conference, the Face of AMSUL Competition, and the YBC class unveiling event.</li>
+              <li>•	I was there for SPAN’s (Physiology) sports week opening, their YBC Symposium, and their departmental manifesto.</li>
+              <li>•	I participated in NIMELSSA’s (MLS) Skill-Up workshop, their Owambe party, their YBC Symposium, and their departmental dinner.</li>
+              <li>•	I joined NUNSA for their color-themed games night, departmental manifesto, and YBC Symposium.</li>
+            </ul>
+            <p class="leading-relaxed text-sm">“What’s the point?” you might ask. The point is this: I’ve been with these people. I’ve seen their individual strengths, their challenges, and their potential. This is the insight I carry with me — and I believe it’s crucial for anyone vying for a position in COMPSSA to understand the diverse experiences of its members.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
 
 
 
